@@ -19,21 +19,21 @@ four different arrays and with the for loops not being nested
 it helped the program run quicker.
 
 ### Refactored Code
-![refactored-code](C:\Users\The_Doctor\Documents\UofA\Homework\Module_2_Challenge\Resources\refactored_code.jpg)
+![refactored-code](https://github.com/layalacordero/stock-analysis/blob/main/Resources/refactored_code.jpg)
 
 ### Original Code
-![original-code](C:\Users\The_Doctor\Documents\UofA\Homework\Module_2_Challenge\Resources\original_code.jpg)
+![original-code](https://github.com/layalacordero/stock-analysis/blob/main/Resources/original_code.jpg)
 
 As you can see in the images below the refactored code ran faster
 
 ### 2017 Refactored Analysis
-![2017-refact-code](C:\Users\The_Doctor\Documents\UofA\Homework\Module_2_Challenge\Resources\2017_refactored_runtime.jpg)
+![2017-refact-code](https://github.com/layalacordero/stock-analysis/blob/main/Resources/2017_refactored_runtime.jpg)
 ### 2018 Refactored Analysis
-![2018-refact-code](\Resources\2018_refactored_runtime.jpg)
+![2018-refact-code](https://github.com/layalacordero/stock-analysis/blob/main/Resources/2018_refactored_runtime.jpg)
 ### 2017 Original Analysis
-![2017-original-code](C:\Users\The_Doctor\Documents\UofA\Homework\Module_2_Challenge\Resources\2017_original_runtime.jpg)
+![2017-original-code](https://github.com/layalacordero/stock-analysis/blob/main/Resources/2017_original_runtime.jpg)
 ### 2018 Original Analysis
-![2018-original-code](C:\Users\The_Doctor\Documents\UofA\Homework\Module_2_Challenge\Resources\2018_original_runtime.jpg)
+![2018-original-code](https://github.com/layalacordero/stock-analysis/blob/main/Resources/2018_original_runtime.jpg)
 ## Summary
 After looking at the data, refactoring the code as shown in the analysis
 has helped the program run faster. By switching the order of the for loops,
